@@ -1,0 +1,18 @@
+{
+    "task_config": [
+        {
+             "task_name": "FileWriter",
+             "task_location": "/Users/justinleone/task-scheduler/task",
+             "task_interval": 5,
+             "task_scheduled_time": "2020-04-16 17:07:01",
+             "task_scheduled": true
+         },
+         {
+             "task_name": "Important Task",
+             "task_location": "/Users/justinleone/task-scheduler/task",
+             "task_interval": 0,
+             "task_scheduled_time": "",
+             "task_scheduled": false
+         }
+    ]
+}
